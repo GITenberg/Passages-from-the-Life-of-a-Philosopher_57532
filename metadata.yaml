@@ -1,5 +1,8 @@
 _repo: Passages-from-the-Life-of-a-Philosopher_57532
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57532-h/images/cover.jpg
 creator:
   author:
     agent_name: Babbage, Charles
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/556
     wikipedia: http://en.wikipedia.org/wiki/Charles_Babbage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57532#Passages-from-the-Life-of-a-Philosopher
 gutenberg_issued: '2018-07-18'
 gutenberg_type: Text
 identifiers:
