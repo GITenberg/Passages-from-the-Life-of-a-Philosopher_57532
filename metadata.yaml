@@ -1,0 +1,23 @@
+_repo: Passages-from-the-Life-of-a-Philosopher_57532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Babbage, Charles
+    birthdate: 1791
+    deathdate: 1871
+    gutenberg_agent_id: '556'
+    url: http://www.gutenberg.org/2009/agents/556
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Babbage
+description: ''
+gutenberg_issued: '2018-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Passages from the Life of a Philosopher
+url: http://www.gutenberg.org/ebooks/57532
